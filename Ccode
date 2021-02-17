@@ -20,3 +20,6 @@ int main() {
     }
     return 0;
 }
+
+# consider OSL as C language
+* .osl linguist-language=C
